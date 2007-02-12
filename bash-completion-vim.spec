@@ -1,5 +1,5 @@
 Summary:	bash-completion for vim
-Summary(pl.UTF-8):   bashowe uzupełnianie nazw dla vima
+Summary(pl.UTF-8):	bashowe uzupełnianie nazw dla vima
 Name:		bash-completion-vim
 Version:	0.20051009
 Release:	0.2
