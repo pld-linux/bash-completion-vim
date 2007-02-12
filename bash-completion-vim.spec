@@ -1,5 +1,5 @@
 Summary:	bash-completion for vim
-Summary(pl):	bashowe uzupe≥nianie nazw dla vima
+Summary(pl.UTF-8):   bashowe uzupe≈Çnianie nazw dla vima
 Name:		bash-completion-vim
 Version:	0.20051009
 Release:	0.2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 bash-completion for vim.
 
-%description -l pl
-bashowe uzupe≥nianie nazw dla vima.
+%description -l pl.UTF-8
+bashowe uzupe≈Çnianie nazw dla vima.
 
 %prep
 %setup -q -T -c
